@@ -8,6 +8,7 @@ body {
 }
 
 
+
 :root{
     --color: #47ab00;
     --dark: #092032;
@@ -18,9 +19,8 @@ body {
     padding-top: 0.65rem !important;
 }
 
-.cv{
-    align-items: flex-end !important;
-    text-align-last: right !important;
+.mar-top{
+    margin-top: 5rem !important;
 }
 
 
@@ -140,7 +140,7 @@ footer p{
  
  
  .nav-link:hover{
-     color: var(--color)!important;
+     color:rgb(0, 250, 137)!important;
  }
  
  
